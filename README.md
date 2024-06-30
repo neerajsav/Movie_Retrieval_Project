@@ -2,4 +2,4 @@
 
 •  Leveraged the usage of the movie API to access and extract information, including title, release year, directors, genre, and a plot summary
 
-•  Utilized Python programming with an API, enabling retrieval of structured JSON objects containing movie details# Project
+•  Utilized Python programming with an API, enabling retrieval of structured JSON objects containing movie details
